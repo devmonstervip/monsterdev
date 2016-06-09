@@ -1,0 +1,238 @@
+[ Tue Jun  7 19:57:43 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] added SuperGroup
+ 
+[ Tue Jun  7 20:01:53 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 20:09:45 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 20:10:52 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 20:10:59 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute All
+ 
+[ Tue Jun  7 20:12:01 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 20:13:23 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 20:23:26 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 20:24:04 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 20:27:47 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked arabic 
+ 
+[ Tue Jun  7 20:27:57 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] unlocked Arabic
+ 
+[ Tue Jun  7 20:32:32 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 20:32:48 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked arabic 
+ 
+[ Tue Jun  7 21:09:46 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Gifs
+ 
+[ Tue Jun  7 21:10:04 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute Gifs
+ 
+[ Tue Jun  7 21:12:04 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 21:13:39 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Gifs
+ 
+[ Tue Jun  7 21:19:19 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Text
+ 
+[ Tue Jun  7 21:20:43 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Documents
+ 
+[ Tue Jun  7 21:23:11 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute All
+ 
+[ Tue Jun  7 21:23:21 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 21:49:16 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute All
+ 
+[ Tue Jun  7 21:53:44 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 21:54:03 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute All
+ 
+[ Tue Jun  7 22:49:01 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 22:49:14 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 22:49:26 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute All
+ 
+[ Tue Jun  7 22:51:01 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Photo
+ 
+[ Tue Jun  7 23:00:07 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Tue Jun  7 23:00:21 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 23:07:40 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute All
+ 
+[ Tue Jun  7 23:07:46 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 23:44:22 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute All
+ 
+[ Tue Jun  7 23:44:37 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Tue Jun  7 23:45:05 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute Photo
+ 
+[ Tue Jun  7 23:45:38 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute Gifs
+ 
+[ Tue Jun  7 23:45:49 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Gifs
+ 
+[ Tue Jun  7 23:46:42 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: unmute Documents
+ 
+[ Tue Jun  7 23:46:57 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Documents
+ 
+[ Tue Jun  7 23:50:48 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute Audio
+ 
+[ Tue Jun  7 23:56:37 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set flood to [6]
+ 
+[ Tue Jun  7 23:58:17 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup info
+ 
+[ Wed Jun  8 00:12:30 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] added SuperGroup
+ 
+[ Wed Jun  8 00:27:31 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 00:27:35 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup settings 
+ 
+[ Wed Jun  8 00:34:29 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup settings 
+ 
+[ Wed Jun  8 00:34:39 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked link posting 
+ 
+[ Wed Jun  8 00:34:53 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] unlocked link posting
+ 
+[ Wed Jun  8 00:35:04 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked link posting 
+ 
+[ Wed Jun  8 00:35:14 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked spam 
+ 
+[ Wed Jun  8 00:35:23 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] unlocked spam
+ 
+[ Wed Jun  8 00:46:52 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked link posting 
+ 
+[ Wed Jun  8 00:46:59 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] unlocked link posting
+ 
+[ Wed Jun  8 01:02:37 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 01:02:47 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked link posting 
+ 
+[ Wed Jun  8 01:10:01 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 01:18:16 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 01:37:36 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] added SuperGroup
+ 
+[ Wed Jun  8 01:37:51 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 01:39:37 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] attempted to create a new SuperGroup link
+ 
+[ Wed Jun  8 01:39:58 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup mutelist
+ 
+[ Wed Jun  8 01:40:07 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup muteslist
+ 
+[ Wed Jun  8 01:40:17 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup users list
+ 
+[ Wed Jun  8 01:49:42 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup bots list
+ 
+[ Wed Jun  8 01:50:14 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked member 
+ 
+[ Wed Jun  8 01:51:06 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] resolved username: @Mosta79
+ 
+[ Wed Jun  8 01:51:16 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] used /owner
+ 
+[ Wed Jun  8 01:53:23 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] demoted admin @spmonster2
+ 
+[ Wed Jun  8 02:05:00 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] added SuperGroup
+ 
+[ Wed Jun  8 02:05:06 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 02:05:10 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked link posting 
+ 
+[ Wed Jun  8 13:07:46 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 13:09:17 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 13:10:30 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 14:09:40 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 14:14:21 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 14:54:29 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] kicked: @Mosta79 [208459353]
+ 
+[ Wed Jun  8 15:15:07 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 15:15:16 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 15:54:17 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set SuperGroup to: mute All
+ 
+[ Wed Jun  8 15:54:51 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] locked flood 
+ 
+[ Wed Jun  8 15:54:58 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] set flood to [3]
+ 
+[ Wed Jun  8 16:02:25 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 16:03:49 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 16:07:28 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 16:14:54 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 17:16:42 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 17:17:32 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 17:45:30 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 17:47:30 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 17:48:44 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 19:07:36 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 19:34:32 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] attempted to create a new SuperGroup link
+ 
+[ Wed Jun  8 19:34:47 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested group link [waiting]
+ 
+[ Wed Jun  8 19:35:12 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] attempted to create a new SuperGroup link
+ 
+[ Wed Jun  8 19:35:23 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested group link [https://telegram.me/joinchat/DkcxiT7lBJJXAt7Zf-t6lQ]
+ 
+[ Wed Jun  8 19:50:30 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 20:43:17 2016 ]=>  STARBOT @spmonster2 [225536131] kicked for #spam
+ 
+[ Wed Jun  8 20:58:45 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] promoted @Dhdjjxjc
+ 
+[ Wed Jun  8 21:04:39 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] demoted @Dhdjjxjc
+ 
+[ Wed Jun  8 21:57:22 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] promoted @Dhdjjxjc
+ 
+[ Wed Jun  8 22:01:26 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Wed Jun  8 22:03:50 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] demoted @Dhdjjxjc
+ 
+[ Thu Jun  9 00:31:47 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup bots list
+ 
+[ Thu Jun  9 00:31:55 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup mutelist
+ 
+[ Thu Jun  9 00:32:02 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup users list
+ 
+[ Thu Jun  9 00:32:12 2016 ]=>  😈_PXBP_8_9K_وحشش😈 [208121352] requested member list in a file
+ 
+[ Thu Jun  9 00:32:23 2016 ]=>  😈_PXBP_8_9K_وحشش😈 [208121352] requested member list in a file
+ 
+[ Thu Jun  9 00:32:33 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup info
+ 
+[ Thu Jun  9 00:35:02 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup mutelist
+ 
+[ Thu Jun  9 00:35:07 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup muteslist
+ 
+[ Thu Jun  9 00:35:34 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup settings 
+ 
+[ Thu Jun  9 00:37:17 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested group rules
+ 
+[ Thu Jun  9 00:37:23 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] has changed group rules to [h]
+ 
+[ Thu Jun  9 00:38:41 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested group modlist
+ 
+[ Thu Jun  9 00:39:07 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] used /owner
+ 
+[ Thu Jun  9 01:41:55 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Thu Jun  9 10:44:06 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
+[ Thu Jun  9 11:04:19 2016 ]=>  😈 PXBP 8 9K وحشش😈 [208121352] requested SuperGroup ID
+ 
